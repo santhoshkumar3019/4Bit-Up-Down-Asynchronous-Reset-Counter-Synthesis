@@ -80,15 +80,16 @@ used.
           gui_show
 
 #### Synthesis RTL Schematic :
+![IMG-20241122-WA0058](https://github.com/user-attachments/assets/2c4c9326-5447-4aa1-8cf7-4617c0868fd6)
 
 #### Area report:
-![Screenshot (184)](https://github.com/user-attachments/assets/dddc004f-a06a-4bf1-a30d-2ccc1a79c633)
+![IMG-20241122-WA0046](https://github.com/user-attachments/assets/3e905884-daa9-421c-9953-d7f4f8e7c449)
 
 #### Power Report:
-![Screenshot (185)](https://github.com/user-attachments/assets/c3c949b4-2385-43ed-8553-07f738d4110c)
+![IMG-20241122-WA0045](https://github.com/user-attachments/assets/629bc5dd-f507-4852-9768-b3908188eaa0)
 
 #### Timing Report: 
-![Screenshot (187)](https://github.com/user-attachments/assets/30958e9f-ccbf-4f60-8a97-3e8ea0969a7e)
+![IMG-20241122-WA0044 (1)](https://github.com/user-attachments/assets/be12db31-0d85-41d4-816d-86d2855796c4)
 
 #### Result: 
 
